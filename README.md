@@ -1,8 +1,12 @@
 # Iris__Classification
 In this project, Iris classification model of flowers is made using Python and some popular libraries such as seaborn,Tenserflow,numpy and pandas. 
+
 #Objective : Classify Iris flowers into three species (setosa, versicolor, and virginica) based on their sepal and petal characteristics.
+
 #Dataset: We'll use the famous Iris dataset, which is often included in scikit-learn.
+
 #Procedure:
+
 1. Nesessary  Libraries are Imported.
 2. The Dataset is loaded.
 3. The Data is splitted into trsting and training data.
